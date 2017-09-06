@@ -1,5 +1,6 @@
 # Lab_01 - HTML/CSS Refresher
-Name: _______________________________________
+Name: James Blackwell
+
 
 ## DUE: 03 Sep 2017
 
